@@ -1,0 +1,9 @@
+install Xampp 
+import hospital.sql to create the database
+copy the file to htdoc under xampp file 
+run the program through browser 
+localhost/hospital_test/
+
+
+thank 
+Oluwanisola Adeniran //gallantImpact
